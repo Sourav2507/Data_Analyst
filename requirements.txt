@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+duckdb
+lxml
